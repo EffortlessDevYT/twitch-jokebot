@@ -1,0 +1,20 @@
+{
+  "name": "jokebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon bot.js",
+    "bot": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.18",
+    "tmi.js": "^1.8.5"
+  }
+}
