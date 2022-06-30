@@ -1,6 +1,6 @@
 # twitch-jokebot by EffortlessDev
 A simple jokebot for Twitch in 10 steps
-Follow the tutorial on youtube: URL
+Follow the tutorial on youtube: https://www.youtube.com/watch?v=O2dxjAHUhxw
 
 ## Twitch bot token url
 Replace CLIENTID in the url with your application client id from dev.twitch.tv
